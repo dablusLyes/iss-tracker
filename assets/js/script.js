@@ -23,4 +23,4 @@ async function getData(){
     mymap.setView([data.latitude,data.longitude])
   }
 }
-setInterval(getData, 1000); 
+setInterval(getData, 5000); 

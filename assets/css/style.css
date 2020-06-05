@@ -1,0 +1,12 @@
+#mapid{
+    height: 1300px;
+    width: 1300px;
+}
+h3{
+    text-align: center;
+}
+.info{
+    font-size: large;
+    float: right;
+    padding-right: 100px;
+}
